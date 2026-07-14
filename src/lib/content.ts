@@ -193,12 +193,19 @@ export function getLicenseFinderData(): Record<string, LicenseFinderData> {
   for (const business of BUSINESS_TYPES) {
     const layerA = readJsonFile<LayerAData>(business.jsonFilename);
 
+    // Guard against missing or malformed data files — default to empty arrays.
+    const typicalStateRequirements = Array.isArray(
+      (layerA as any).typical_state_requirements,
+    )
+      ? (layerA as any).typical_state_requirements
+      : [];
+
     for (const state of stateTable.states) {
-      const commonlyRequiredItems = layerA.typical_state_requirements
+      const commonlyRequiredItems = typicalStateRequirements
         .slice(0, 3)
-        .map((item) => ({
-          label: item.requirement_name,
-          description: item.how_commonly_required,
+        .map((item: any) => ({
+          label: item?.requirement_name ?? "",
+          description: item?.how_commonly_required ?? "",
         }));
 
       const stateVerifiedItems = [
