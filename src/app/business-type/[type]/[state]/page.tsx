@@ -83,7 +83,7 @@ export default async function BusinessTypeStatePage({
         <article className="rounded-2xl border border-slate-200 bg-white p-8 shadow-sm">
           <h2 className="text-xl font-semibold">Typical requirements</h2>
           <ul className="mt-5 space-y-3 text-slate-600">
-            {page.business.data.typical_state_requirements.slice(0, 4).map((item) => (
+            {(Array.isArray(page.business.data.typical_state_requirements) ? page.business.data.typical_state_requirements : []).slice(0, 4).map((item) => (
               <li key={item.requirement_name} className="leading-7">
                 <span className="font-medium text-slate-900">{item.requirement_name}</span>
                 <span className="block text-sm">{item.how_commonly_required}</span>

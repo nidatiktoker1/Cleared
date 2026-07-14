@@ -74,7 +74,7 @@ export default async function BusinessTypePage({
         <article className="rounded-2xl border border-slate-200 bg-white p-8 shadow-sm">
           <h2 className="text-xl font-semibold">Typical state-level requirements</h2>
           <ul className="mt-5 space-y-3 text-slate-600">
-            {page.data.typical_state_requirements.slice(0, 4).map((item) => (
+            {(Array.isArray(page.data.typical_state_requirements) ? page.data.typical_state_requirements : []).slice(0, 4).map((item) => (
               <li key={item.requirement_name} className="leading-7">
                 <span className="font-medium text-slate-900">{item.requirement_name}</span>
                 <span className="block text-sm">{item.how_commonly_required}</span>
@@ -89,7 +89,7 @@ export default async function BusinessTypePage({
             Start with the state that matters to your business and review the local filing steps.
           </p>
           <div className="mt-6 flex flex-wrap gap-3">
-            {page.states.slice(0, 12).map((state) => (
+            {(Array.isArray(page.states) ? page.states : []).slice(0, 12).map((state) => (
               <Link
                 key={state.state_abbreviation}
                 href={`/business-type/${type}/${state.state_name.toLowerCase().replace(/\s+/g, "-")}`}
