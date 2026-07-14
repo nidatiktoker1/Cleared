@@ -109,7 +109,7 @@ const BUSINESS_TYPES: BusinessTypeDefinition[] = [
 ];
 
 function getContentRoot(): string {
-  return path.resolve(process.cwd(), "..");
+  return process.cwd();
 }
 
 function readJsonFile<T>(fileName: string): T {

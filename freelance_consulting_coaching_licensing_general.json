@@ -1,0 +1,17 @@
+{
+  "business_type": "Freelance Consulting / Coaching Business",
+  "scope_note": "This dataset covers GENERAL (typically nationwide-consistent) licensing/permit requirements only. State-specific variations are addressed separately in Layer B. All claims use 'commonly'/'typically' phrasing unless a fact is established federal law. This category includes solo/home-based consultants, business coaches, life coaches, and similar independent advisory professionals who are NOT practicing a state-regulated profession.",
+  "federal_requirements": [
+    {
+      "requirement_name": "Employer Identification Number (EIN) / Federal Tax ID",
+      "why_needed": "An EIN is a federal tax ID number used by the IRS to identify business entities for tax filing purposes. A sole proprietor who has no employees is not strictly required to obtain an EIN (they can use their SSN for business tax filing), but it is commonly recommended — especially to open a business bank account, protect the owner's SSN from identity theft, and prepare for future hiring.",
+      "issuing_agency": "Internal Revenue Service (IRS)",
+      "how_commonly_required": "Required when the business has employees, operates as a partnership or corporation, or files certain federal tax returns (e.g., excise tax). Not strictly required for a sole proprietor with no employees, but commonly obtained. Free; issued immediately when applied for online.",
+      "is_license": false,
+      "source_urls": [
+        "https://www.irs.gov/businesses/small-businesses-self-employed/employer-id-numbers",
+        "https://www.irs.gov/businesses/small-businesses-self-employed/single-member-limited-liability-companies"
+      ]
+    }
+  ]
+}

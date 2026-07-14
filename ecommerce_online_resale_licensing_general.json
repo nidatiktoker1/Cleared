@@ -1,0 +1,31 @@
+{
+  "business_type": "E-commerce / Online Resale Business",
+  "scope_note": "This dataset covers GENERAL (typically nationwide-consistent) licensing/permit requirements only. State-specific variations are addressed separately in Layer B. All claims use 'commonly'/'typically' phrasing unless a fact is established federal law.",
+  "federal_requirements": [
+    {
+      "requirement_name": "Employer Identification Number (EIN) / Federal Tax ID",
+      "why_needed": "An EIN is a federal tax ID number used by the IRS to identify business entities for tax filing purposes. It is commonly required to open a business bank account, file business tax returns, and hire employees. Sole proprietors without employees are not strictly required to obtain one (they can use their SSN), but it is commonly recommended and commonly obtained.",
+      "issuing_agency": "Internal Revenue Service (IRS)",
+      "how_commonly_required": "Required when the business has employees, operates as a partnership or corporation, or files certain federal tax returns. Free to obtain; issued immediately when applied for online. Not a 'license' per se — it is a tax identification number.",
+      "is_license": false,
+      "source_urls": [
+        "https://www.irs.gov/businesses/small-businesses-self-employed/employer-id-numbers",
+        "https://www.irs.gov/newsroom/heres-what-businesses-should-know-about-getting-an-employer-identification-number-youtube-video-text-script"
+      ]
+    }
+  ],
+  "federal_requirements_summary": "There is no general federal 'online seller' license. A typical e-commerce/online resale business selling ordinary consumer goods does not require a federal business license. The only federal-level item commonly obtained is an EIN (a tax ID, not a license). Federal product-safety or industry-specific licenses apply only conditionally based on what is sold (e.g., children's products, alcohol, firearms).",
+  "typical_state_requirements": [
+    {
+      "requirement_name": "Sales tax permit / seller's permit (also called 'sales and use tax permit,' 'transaction privilege tax license,' etc.)",
+      "why_needed": "A seller's permit authorizes a business to collect sales tax from customers on taxable goods and remit it to the state. If an e-commerce business sells tangible personal property to customers in a state and has nexus (physical or economic) there, it is commonly required to register for a seller's permit in that state. Following the 2018 South Dakota v. Wayfair Supreme Court decision, states can require remote sellers with no physical presence to register and collect sales tax if they meet an economic nexus threshold.",
+      "typical_issuing_agency_type": "State Department of Revenue (or equivalent state tax authority)",
+      "how_commonly_required": "Required in nearly all states that impose a sales tax, once the business has nexus in that state.",
+      "source_urls": [
+        "https://www.salestaxinstitute.com/resources/economic-nexus-state-guide",
+        "https://www.ca.gov/departments/287/services/26",
+        "https://www.shopify.com/blog/sellers-permit"
+      ]
+    }
+  ]
+}

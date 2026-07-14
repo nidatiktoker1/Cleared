@@ -1,0 +1,30 @@
+{
+  "states": [
+    {
+      "state_name": "Alabama",
+      "state_abbreviation": "AL",
+      "secretary_of_state_business_url": "https://sos.alabama.gov/business-services",
+      "dept_of_revenue_tax_registration_url": "https://revenue.alabama.gov/",
+      "has_general_state_business_license": false,
+      "licensing_board_naming_note": "standard naming",
+      "last_verified_date": "2026-07-07",
+      "source_urls": [
+        "https://sos.alabama.gov/business-services",
+        "https://revenue.alabama.gov/"
+      ]
+    },
+    {
+      "state_name": "Alaska",
+      "state_abbreviation": "AK",
+      "secretary_of_state_business_url": "https://www.commerce.alaska.gov/web/cbpl/Corporate/BusinessFilings.aspx",
+      "dept_of_revenue_tax_registration_url": "https://dor.alaska.gov/",
+      "has_general_state_business_license": false,
+      "licensing_board_naming_note": "standard naming",
+      "last_verified_date": "2026-07-07",
+      "source_urls": [
+        "https://www.commerce.alaska.gov/web/cbpl/Corporate/BusinessFilings.aspx",
+        "https://dor.alaska.gov/"
+      ]
+    }
+  ]
+}
