@@ -6,7 +6,6 @@ const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
 });
-
 const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
   subsets: ["latin"],
@@ -19,6 +18,9 @@ export const metadata: Metadata = {
   },
   description:
     "Clear, practical business-licensing guides for small business owners across the United States.",
+  verification: {
+    google: "t1xiFNMYDWqTVy4n8G4rREKo4cwzXk60B_a930ND1QA",
+  },
 };
 
 export default function RootLayout({
