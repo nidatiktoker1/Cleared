@@ -2,7 +2,7 @@ import { MetadataRoute } from "next";
 import { getBusinessTypes, getStateReferenceTable } from "@/lib/content";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://cleared.example";
+  const baseUrl = "https://cleared-two.vercel.app";
   const businessTypes = getBusinessTypes();
   const states = getStateReferenceTable().states;
 
