@@ -25,6 +25,168 @@
         "https://www.commerce.alaska.gov/web/cbpl/Corporate/BusinessFilings.aspx",
         "https://dor.alaska.gov/"
       ]
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://azdor.gov/business",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "Corporations and LLCs file with the Arizona Corporation Commission; the Secretary of State handles trade names, trademarks, UCC and partnerships.",
+      "secretary_of_state_business_url": "https://azsos.gov/business",
+      "source_urls": [
+        "https://azsos.gov/business",
+        "https://azdor.gov/business"
+      ],
+      "state_abbreviation": "AZ",
+      "state_name": "Arizona"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://www.dfa.arkansas.gov/online-services/businesses/",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "Taxes are administered by the Department of Finance and Administration (Revenue Division); there is no standalone Department of Revenue.",
+      "secretary_of_state_business_url": "https://www.sos.arkansas.gov/business-commercial-services-bcs/for-new-business",
+      "source_urls": [
+        "https://www.sos.arkansas.gov/business-commercial-services-bcs/for-new-business",
+        "https://www.dfa.arkansas.gov/online-services/businesses/",
+        "https://www.sos.arkansas.gov/frequently-asked-questions/62"
+      ],
+      "state_abbreviation": "AR",
+      "state_name": "Arkansas"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://cdtfa.ca.gov/formspubs/pub107/applying-for-a-sellers-permit.htm",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "Business tax registration sits with the California Department of Tax and Fee Administration (CDTFA); income tax sits with the Franchise Tax Board.",
+      "secretary_of_state_business_url": "https://www.sos.ca.gov/business-programs/business-entities",
+      "source_urls": [
+        "https://www.sos.ca.gov/business-programs/business-entities",
+        "https://www.cdtfa.ca.gov/",
+        "https://cdtfa.ca.gov/formspubs/pub107/applying-for-a-sellers-permit.htm"
+      ],
+      "state_abbreviation": "CA",
+      "state_name": "California"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://tax.colorado.gov/",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://coloradosos.gov/pubs/business/businessHome.html",
+      "source_urls": [
+        "https://coloradosos.gov/pubs/business/businessHome.html",
+        "https://tax.colorado.gov/"
+      ],
+      "state_abbreviation": "CO",
+      "state_name": "Colorado"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://portal.ct.gov/drs",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "The office is styled Secretary of the State; business filings are handled through the state's Business.CT.gov portal.",
+      "secretary_of_state_business_url": "https://business.ct.gov/",
+      "source_urls": [
+        "https://business.ct.gov/",
+        "https://portal.ct.gov/sots",
+        "https://portal.ct.gov/drs"
+      ],
+      "state_abbreviation": "CT",
+      "state_name": "Connecticut"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://revenue.delaware.gov/frequently-asked-questions/business-licenses-faqs/",
+      "has_general_state_business_license": true,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "Entities file with the Division of Corporations; the general state business license is issued by the Division of Revenue via Delaware One Stop.",
+      "secretary_of_state_business_url": "https://corp.delaware.gov/",
+      "source_urls": [
+        "https://corp.delaware.gov/contact/",
+        "https://revenue.delaware.gov/frequently-asked-questions/business-licenses-faqs/",
+        "https://revenue.delaware.gov/frequently-asked-questions/gross-receipts-tax-faqs/"
+      ],
+      "state_abbreviation": "DE",
+      "state_name": "Delaware"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://floridarevenue.com/taxes/eservices/Pages/registration.aspx",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "Entity filings sit with the Division of Corporations (Sunbiz) inside the Florida Department of State; Florida has no Secretary of State office.",
+      "secretary_of_state_business_url": "https://dos.fl.gov/sunbiz/",
+      "source_urls": [
+        "https://dos.fl.gov/sunbiz/",
+        "https://floridarevenue.com/taxes/eservices/Pages/registration.aspx"
+      ],
+      "state_abbreviation": "FL",
+      "state_name": "Florida"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://dor.georgia.gov/taxes/register-new-business-georgia",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://ecorp.sos.ga.gov/",
+      "source_urls": [
+        "https://ecorp.sos.ga.gov/",
+        "https://dor.georgia.gov/taxes/register-new-business-georgia",
+        "https://georgia.gov/register-business-georgia-department-revenue"
+      ],
+      "state_abbreviation": "GA",
+      "state_name": "Georgia"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://tax.hawaii.gov/geninfo/licensing/",
+      "has_general_state_business_license": true,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "Hawaii has no Secretary of State for business filings; registration is handled by the Business Registration Division (BREG) within the DCCA.",
+      "secretary_of_state_business_url": "https://cca.hawaii.gov/breg/",
+      "source_urls": [
+        "https://cca.hawaii.gov/breg/",
+        "https://tax.hawaii.gov/geninfo/licensing/",
+        "https://tax.hawaii.gov/get/FAQ/"
+      ],
+      "state_abbreviation": "HI",
+      "state_name": "Hawaii"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://tax.idaho.gov/online-services/business-registration/",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://sos.idaho.gov/business-forms/",
+      "source_urls": [
+        "https://sos.idaho.gov/business-forms/",
+        "https://tax.idaho.gov/online-services/business-registration/"
+      ],
+      "state_abbreviation": "ID",
+      "state_name": "Idaho"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://tax.illinois.gov/programs/mytax/help/what-is-mytax-illinois-.html",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://www.illinois.gov/services/service.llc-filings.html",
+      "source_urls": [
+        "https://www.illinois.gov/services/service.llc-filings.html",
+        "https://tax.illinois.gov/programs/mytax/help/what-is-mytax-illinois-.html"
+      ],
+      "state_abbreviation": "IL",
+      "state_name": "Illinois"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://www.in.gov/dor/business-tax/register-a-new-business",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "Business filings run through INBiz, the one-stop portal operated by the Secretary of State's Business Services Division.",
+      "secretary_of_state_business_url": "https://inbiz.in.gov/",
+      "source_urls": [
+        "https://inbiz.in.gov/about",
+        "https://www.in.gov/dor/business-tax/register-a-new-business"
+      ],
+      "state_abbreviation": "IN",
+      "state_name": "Indiana"
     }
   ]
 }
