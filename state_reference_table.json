@@ -345,6 +345,166 @@
       ],
       "state_abbreviation": "MT",
       "state_name": "Montana"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://revenue.nebraska.gov/businesses/register-your-new-business-online",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://sos.nebraska.gov/business-services/corporate-and-business",
+      "source_urls": [
+        "https://sos.nebraska.gov/business-services/corporate-and-business",
+        "https://revenue.nebraska.gov/businesses/register-your-new-business-online",
+        "https://revenue.nebraska.gov/about/frequently-asked-questions/all-businesses-faqs"
+      ],
+      "state_abbreviation": "NE",
+      "state_name": "Nebraska"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://tax.nv.gov/",
+      "has_general_state_business_license": true,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "The Secretary of State issues a mandatory State Business License that most businesses must obtain and renew annually.",
+      "secretary_of_state_business_url": "https://www.nvsos.gov/sos/businesses",
+      "source_urls": [
+        "https://www.nvsos.gov/sos/businesses",
+        "https://tax.nv.gov/",
+        "https://www.nvsos.gov/sos/home"
+      ],
+      "state_abbreviation": "NV",
+      "state_name": "Nevada"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://www.revenue.nh.gov/resource-center/granite-tax-connect",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://sos.nh.gov/corporation-ucc-securities/corporation/",
+      "source_urls": [
+        "https://sos.nh.gov/corporation-ucc-securities/corporation/",
+        "https://www.revenue.nh.gov/resource-center/granite-tax-connect"
+      ],
+      "state_abbreviation": "NH",
+      "state_name": "New Hampshire"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://www.nj.gov/treasury/revenue/gettingregistered.shtml",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "Filings and tax registration sit with the Treasury's Division of Revenue & Enterprise Services (DORES), not a Secretary of State.",
+      "secretary_of_state_business_url": "https://www.nj.gov/treasury/revenue/",
+      "source_urls": [
+        "https://www.nj.gov/treasury/revenue/",
+        "https://www.nj.gov/treasury/revenue/gettingregistered.shtml",
+        "https://www.nj.gov/treasury/revenue/busregcert.shtml"
+      ],
+      "state_abbreviation": "NJ",
+      "state_name": "New Jersey"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://www.tax.newmexico.gov/businesses/who-must-register-a-business/",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://www.sos.nm.gov/business-services/",
+      "source_urls": [
+        "https://www.sos.nm.gov/business-services/",
+        "https://www.tax.newmexico.gov/businesses/who-must-register-a-business/"
+      ],
+      "state_abbreviation": "NM",
+      "state_name": "New Mexico"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://www.tax.ny.gov/bus/st/register.htm",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "Filings sit with the Department of State's Division of Corporations, State Records and UCC, not a standalone Secretary of State office.",
+      "secretary_of_state_business_url": "https://dos.ny.gov/division-corporations-state-records-and-uniform-commercial-code",
+      "source_urls": [
+        "https://dos.ny.gov/division-corporations-state-records-and-uniform-commercial-code",
+        "https://www.tax.ny.gov/bus/st/register.htm"
+      ],
+      "state_abbreviation": "NY",
+      "state_name": "New York"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://www.ncdor.gov/registration",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://www.sosnc.gov/divisions/business_registration",
+      "source_urls": [
+        "https://www.sosnc.gov/divisions/business_registration",
+        "https://www.ncdor.gov/registration"
+      ],
+      "state_abbreviation": "NC",
+      "state_name": "North Carolina"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://www.tax.nd.gov/business",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://www.sos.nd.gov/business",
+      "source_urls": [
+        "https://www.sos.nd.gov/business",
+        "https://www.tax.nd.gov/business"
+      ],
+      "state_abbreviation": "ND",
+      "state_name": "North Dakota"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://tax.ohio.gov/business/register-for-taxes/business-registration",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://www.ohiosos.gov/business",
+      "source_urls": [
+        "https://www.ohiosos.gov/business",
+        "https://tax.ohio.gov/business/register-for-taxes/business-registration"
+      ],
+      "state_abbreviation": "OH",
+      "state_name": "Ohio"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://oklahoma.gov/tax/businesses/new-business-center.html",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://www.sos.ok.gov/business/",
+      "source_urls": [
+        "https://www.sos.ok.gov/business/",
+        "https://oklahoma.gov/tax/businesses/new-business-center.html"
+      ],
+      "state_abbreviation": "OK",
+      "state_name": "Oklahoma"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://www.oregon.gov/dor/programs/businesses/pages/withholding-and-payroll-tax.aspx",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://sos.oregon.gov/business",
+      "source_urls": [
+        "https://sos.oregon.gov/business",
+        "https://www.oregon.gov/dor/programs/businesses/pages/withholding-and-payroll-tax.aspx"
+      ],
+      "state_abbreviation": "OR",
+      "state_name": "Oregon"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://www.pa.gov/agencies/revenue/resources/mypath",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://www.dos.pa.gov/corps",
+      "source_urls": [
+        "https://www.dos.pa.gov/corps",
+        "https://www.pa.gov/agencies/revenue/resources/mypath",
+        "https://www.pa.gov/services/revenue/file-a-business-tax-return"
+      ],
+      "state_abbreviation": "PA",
+      "state_name": "Pennsylvania"
     }
   ]
 }
