@@ -505,6 +505,162 @@
       ],
       "state_abbreviation": "PA",
       "state_name": "Pennsylvania"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://tax.ri.gov/online-services/register-your-business-online",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://www.sos.ri.gov/divisions/business-services",
+      "source_urls": [
+        "https://www.sos.ri.gov/divisions/business-services",
+        "https://tax.ri.gov/online-services/register-your-business-online"
+      ],
+      "state_abbreviation": "RI",
+      "state_name": "Rhode Island"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://dor.sc.gov/businesses/apply-business-tax-account",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://sos.sc.gov/index.php/node/154",
+      "source_urls": [
+        "https://sos.sc.gov/index.php/node/154",
+        "https://dor.sc.gov/businesses/apply-business-tax-account"
+      ],
+      "state_abbreviation": "SC",
+      "state_name": "South Carolina"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://dor.sd.gov/businesses/taxes/sales-use-tax",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://sdsos.gov/business-services/",
+      "source_urls": [
+        "https://sdsos.gov/business-services/",
+        "https://dor.sd.gov/businesses/taxes/sales-use-tax"
+      ],
+      "state_abbreviation": "SD",
+      "state_name": "South Dakota"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://revenue.support.tn.gov/hc/en-us/articles/360057120152-GEN-1-Registering-A-New-Business",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "Business tax licenses are issued by local county and city clerks; the Dept. of Revenue administers the tax via TNTAP.",
+      "secretary_of_state_business_url": "https://sos.tn.gov/businesses",
+      "source_urls": [
+        "https://sos.tn.gov/businesses",
+        "https://revenue.support.tn.gov/hc/en-us/articles/360057120152-GEN-1-Registering-A-New-Business"
+      ],
+      "state_abbreviation": "TN",
+      "state_name": "Tennessee"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://comptroller.texas.gov/taxes/permit/",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://www.sos.texas.gov/corp/business-law.shtml",
+      "source_urls": [
+        "https://www.sos.texas.gov/corp/business-law.shtml",
+        "https://comptroller.texas.gov/taxes/permit/"
+      ],
+      "state_abbreviation": "TX",
+      "state_name": "Texas"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://tax.utah.gov/business",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "Business filings sit with the Division of Corporations and Commercial Code (Dept. of Commerce), not a Secretary of State.",
+      "secretary_of_state_business_url": "https://corporations.utah.gov/",
+      "source_urls": [
+        "https://corporations.utah.gov/",
+        "https://tax.utah.gov/business"
+      ],
+      "state_abbreviation": "UT",
+      "state_name": "Utah"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://tax.vermont.gov/business/register",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://sos.vermont.gov/business-services",
+      "source_urls": [
+        "https://sos.vermont.gov/business-services",
+        "https://tax.vermont.gov/business/register"
+      ],
+      "state_abbreviation": "VT",
+      "state_name": "Vermont"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://www.tax.virginia.gov/register",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "Business entity filings are handled by the State Corporation Commission (Clerk's Office), not a Secretary of State.",
+      "secretary_of_state_business_url": "https://www.scc.virginia.gov/businesses/",
+      "source_urls": [
+        "https://www.scc.virginia.gov/businesses/",
+        "https://www.tax.virginia.gov/register"
+      ],
+      "state_abbreviation": "VA",
+      "state_name": "Virginia"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://dor.wa.gov/open-business/apply-business-license",
+      "has_general_state_business_license": true,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "Most businesses need a state Business License from the Dept. of Revenue's Business Licensing Service; entities also file with the Secretary of State.",
+      "secretary_of_state_business_url": "https://www.sos.wa.gov/corporations-charities",
+      "source_urls": [
+        "https://www.sos.wa.gov/corporations-charities",
+        "https://dor.wa.gov/open-business/apply-business-license"
+      ],
+      "state_abbreviation": "WA",
+      "state_name": "Washington"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://tax.wv.gov/Business/BusinessRegistration/Pages/BusinessRegistration.aspx",
+      "has_general_state_business_license": true,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "Every business must first obtain a Business Registration Certificate (its general business license) from the State Tax Division.",
+      "secretary_of_state_business_url": "https://business4.wv.gov/startmybusiness/pages/register-your-business.aspx",
+      "source_urls": [
+        "https://business4.wv.gov/startmybusiness/pages/register-your-business.aspx",
+        "https://tax.wv.gov/Business/BusinessRegistration/Pages/BusinessRegistration.aspx"
+      ],
+      "state_abbreviation": "WV",
+      "state_name": "West Virginia"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://www.revenue.wi.gov/Pages/Businesses/New-Business-home.aspx",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "Business filings are handled by the Dept. of Financial Institutions (Division of Corporate and Consumer Services), not the Secretary of State.",
+      "secretary_of_state_business_url": "https://dfi.wi.gov/",
+      "source_urls": [
+        "https://dfi.wi.gov/",
+        "https://www.revenue.wi.gov/Pages/Businesses/New-Business-home.aspx"
+      ],
+      "state_abbreviation": "WI",
+      "state_name": "Wisconsin"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://excise-tax-div.wyo.gov/salesuselodging-tax/salesuselodging-registration",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://sos.wyo.gov/Business/Default.aspx",
+      "source_urls": [
+        "https://sos.wyo.gov/Business/Default.aspx",
+        "https://excise-tax-div.wyo.gov/salesuselodging-tax/salesuselodging-registration"
+      ],
+      "state_abbreviation": "WY",
+      "state_name": "Wyoming"
     }
   ]
 }
