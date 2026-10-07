@@ -187,6 +187,164 @@
       ],
       "state_abbreviation": "IN",
       "state_name": "Indiana"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://revenue.iowa.gov/taxes/frequently-asked-questions/govconnectiowa",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://sos.iowa.gov/business-services",
+      "source_urls": [
+        "https://sos.iowa.gov/business-services",
+        "https://revenue.iowa.gov/taxes/frequently-asked-questions/govconnectiowa"
+      ],
+      "state_abbreviation": "IA",
+      "state_name": "Iowa"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://www.ksrevenue.gov/busregistration.html",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://sos.ks.gov/businesses/businesses.html",
+      "source_urls": [
+        "https://sos.ks.gov/businesses/businesses.html",
+        "https://www.ksrevenue.gov/busregistration.html",
+        "https://ksrevenue.gov/faqs-taxbusreg.html"
+      ],
+      "state_abbreviation": "KS",
+      "state_name": "Kansas"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://revenue.ky.gov/Business/Pages/Register-Business.aspx",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "Filings and tax registration run through the Kentucky Business One Stop portal; the state has no general business license.",
+      "secretary_of_state_business_url": "https://www.sos.ky.gov/bus/business-filings/Pages/default.aspx",
+      "source_urls": [
+        "https://www.sos.ky.gov/bus/business-filings/Pages/default.aspx",
+        "https://revenue.ky.gov/Business/Pages/Register-Business.aspx",
+        "http://www.kentucky.gov/business/Pages/default.aspx"
+      ],
+      "state_abbreviation": "KY",
+      "state_name": "Kentucky"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://revenue.louisiana.gov/tax-education-and-faqs/faqs/latap/how-can-i-register-for-latap/",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "Filings sit with the Secretary of State's Commercial Division and run through the geauxBIZ one-stop portal.",
+      "secretary_of_state_business_url": "https://sos.la.gov/BusinessServices",
+      "source_urls": [
+        "https://sos.la.gov/BusinessServices",
+        "https://revenue.louisiana.gov/tax-education-and-faqs/faqs/latap/how-can-i-register-for-latap/"
+      ],
+      "state_abbreviation": "LA",
+      "state_name": "Louisiana"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://www.maine.gov/revenue/FAQAnswers",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "Filings sit with the Bureau of Corporations, Elections and Commissions within the Department of the Secretary of State.",
+      "secretary_of_state_business_url": "https://www.maine.gov/sos/corporations-commissions/corporations-business-services",
+      "source_urls": [
+        "https://www.maine.gov/sos/corporations-commissions/corporations-business-services",
+        "https://www.maine.gov/revenue/FAQAnswers"
+      ],
+      "state_abbreviation": "ME",
+      "state_name": "Maine"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://mdtaxconnect.gov/",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "Business filings sit with the State Department of Assessments and Taxation (SDAT) Charter Division, not the Secretary of State.",
+      "secretary_of_state_business_url": "https://dat.maryland.gov/businesses/Pages/default.aspx",
+      "source_urls": [
+        "https://dat.maryland.gov/businesses/Pages/default.aspx",
+        "https://mdtaxconnect.gov/"
+      ],
+      "state_abbreviation": "MD",
+      "state_name": "Maryland"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://www.mass.gov/info-details/register-your-business-with-masstaxconnect",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "The Secretary of State equivalent is titled Secretary of the Commonwealth; filings sit with its Corporations Division.",
+      "secretary_of_state_business_url": "https://www.sec.state.ma.us/divisions/corporations/corporations.htm",
+      "source_urls": [
+        "https://www.sec.state.ma.us/divisions/corporations/corporations.htm",
+        "https://www.mass.gov/info-details/register-your-business-with-masstaxconnect"
+      ],
+      "state_abbreviation": "MA",
+      "state_name": "Massachusetts"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://www.michigan.gov/taxes/business-taxes/new-biz",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "Business filings sit with the Corporations Division of LARA (Dept. of Licensing and Regulatory Affairs), not the Secretary of State.",
+      "secretary_of_state_business_url": "https://www.michigan.gov/lara/bureau-list/cscl/corps",
+      "source_urls": [
+        "https://www.michigan.gov/lara/bureau-list/cscl/corps",
+        "https://www.michigan.gov/taxes/business-taxes/new-biz"
+      ],
+      "state_abbreviation": "MI",
+      "state_name": "Michigan"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://www.revenue.state.mn.us/guide/registering-your-business",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://www.sos.mn.gov/business-liens",
+      "source_urls": [
+        "https://www.sos.mn.gov/business-liens",
+        "https://www.revenue.state.mn.us/guide/registering-your-business"
+      ],
+      "state_abbreviation": "MN",
+      "state_name": "Minnesota"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://www.dor.ms.gov/e-services",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://www.sos.ms.gov/business-services",
+      "source_urls": [
+        "https://www.sos.ms.gov/business-services",
+        "https://www.dor.ms.gov/e-services"
+      ],
+      "state_abbreviation": "MS",
+      "state_name": "Mississippi"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://dor.mo.gov/taxation/business/registration/requirements.html",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://www.sos.mo.gov/business",
+      "source_urls": [
+        "https://www.sos.mo.gov/business",
+        "https://dor.mo.gov/taxation/business/registration/requirements.html"
+      ],
+      "state_abbreviation": "MO",
+      "state_name": "Missouri"
+    },
+    {
+      "dept_of_revenue_tax_registration_url": "https://mtrevenue.gov/",
+      "has_general_state_business_license": false,
+      "last_verified_date": "2026-10-07",
+      "licensing_board_naming_note": "standard naming",
+      "secretary_of_state_business_url": "https://sosmt.gov/business",
+      "source_urls": [
+        "https://sosmt.gov/business",
+        "https://mtrevenue.gov/"
+      ],
+      "state_abbreviation": "MT",
+      "state_name": "Montana"
     }
   ]
 }
