@@ -4,16 +4,16 @@
 	"federal_requirements": [
 		{
 			"requirement_name": "Employer Identification Number (EIN) / Federal Tax ID",
-			"why_needed": "An EIN is a federal tax ID number used by the IRS to identify business entities for tax filing purposes. For cleaning service businesses, an EIN is commonly needed to open a business bank account, hire employees, and file business tax returns. Sole proprietors with no employees are not strictly required to obtain one (they can use their SSN), but it is commonly recommended — especially for a cleaning business that plans to hire employees, which is very common in this industry.",
+			"why_needed": "An EIN is a federal tax ID number used by the IRS to identify business entities for tax filing purposes. For cleaning service businesses, an EIN is commonly needed to open a business bank account, hire employees, and file business tax returns. Sole proprietors with no employees are not strictly required to obtain one (they can use their SSN), but it is commonly recommended \u2014 especially for a cleaning business that plans to hire employees, which is very common in this industry.",
 			"issuing_agency": "Internal Revenue Service (IRS)",
-			"how_commonly_required": "Required when the business has employees, operates as a partnership or corporation, or files certain federal tax returns. Free; issued immediately when applied for online. Not a 'license' per se — it is a tax identification number.",
+			"how_commonly_required": "Required when the business has employees, operates as a partnership or corporation, or files certain federal tax returns. Free; issued immediately when applied for online. Not a 'license' per se \u2014 it is a tax identification number.",
 			"is_license": false,
 			"source_urls": [
 				"https://www.irs.gov/businesses/small-businesses-self-employed/employer-id-numbers"
 			]
 		},
 		{
-			"requirement_name": "OSHA Hazard Communication Standard (HazCom) compliance — applies if the business has employees",
+			"requirement_name": "OSHA Hazard Communication Standard (HazCom) compliance \u2014 applies if the business has employees",
 			"why_needed": "OSHA's Hazard Communication Standard (29 CFR 1910.1200) is a federal regulation that requires employers with hazardous chemicals in the workplace to maintain Safety Data Sheets (SDS) for each hazardous chemical, ensure containers are properly labeled, and train employees on the safe handling of chemicals. Cleaning products commonly contain hazardous chemicals, so this standard is particularly relevant to cleaning service businesses with employees. This is an employer obligation under federal workplace safety law, not a state or local license. It applies to the employer-employee relationship and does not apply to a sole proprietor working alone with no employees.",
 			"issuing_agency": "Occupational Safety and Health Administration (OSHA), U.S. Department of Labor",
 			"how_commonly_required": "Required for any cleaning business that has employees, because cleaning chemicals are hazardous chemicals under the standard. Not applicable to a sole proprietor with no employees. This is a federal compliance obligation, not a license or permit. States with OSHA-approved state plans may have additional or stricter requirements.",
@@ -24,7 +24,7 @@
 			]
 		},
 		{
-			"requirement_name": "Federal business license — typically none for cleaning services",
+			"requirement_name": "Federal business license \u2014 typically none for cleaning services",
 			"why_needed": "There is no general federal 'cleaning service' license. The SBA identifies specific business activities that trigger federal licensing (e.g., manufacturing/selling alcohol, firearms, agriculture, aviation, broadcasting, commercial fishing, mining, nuclear energy, maritime transportation). A typical residential or commercial cleaning service does NOT trigger any of these federal license categories.",
 			"issuing_agency": "N/A for general cleaning services (varies by regulated activity if applicable)",
 			"how_commonly_required": "Not applicable to a typical cleaning service business. Only triggered if the business involves a federally regulated activity, which is atypical for this category.",
@@ -37,32 +37,85 @@
 	"federal_requirements_summary": "There is no general federal 'cleaning service' license. The federal-level obligations for a typical cleaning business are: (1) obtaining an EIN (commonly recommended, required if hiring employees), and (2) complying with OSHA's Hazard Communication Standard if the business has employees who handle cleaning chemicals (maintaining SDS, labeling, and training). Federal business licenses apply only if the business involves a federally regulated activity, which is atypical for cleaning services.",
 	"typical_state_requirements": [
 		{
-			"requirement_name": "General business license (state and/or local level) — varies by jurisdiction",
-			"why_needed": "A general business license authorizes a business to operate within a state or local jurisdiction. For cleaning services, a general business license is commonly required by the city or county in which the business operates. Some states also require a state-level business license or registration; others do not have a state-level general business license requirement. The requirement varies by state and locality. Sources consistently note that 'every US state requires some form of business registration' and that 'most require a general business license,' but the specific level (state vs. local) and whether one is needed at all depends on the jurisdiction.",
-			"typical_issuing_agency_type": "City or county clerk's office / business license office (most common); some states also require state-level registration or licensing through the Secretary of State or Department of Revenue",
-			"how_commonly_required": "Commonly required at the local (city/county) level. State-level general business license requirements vary — some states require them, others do not. The SBA advises that requirements depend on business activities and location. This is one of the most commonly required permits for cleaning businesses, but the specific issuing authority and requirements vary by jurisdiction.",
+			"requirement_name": "Register the business entity (LLC / corporation filing, or DBA for sole proprietors)",
+			"why_needed": "Before any license, the business itself must exist on paper. LLCs and corporations file formation documents with the state (usually the Secretary of State or corporations division). Sole proprietors operating under a name other than their own legal name typically file a DBA ('doing business as'). This registration is separate from a business license - most cleaning businesses need both.",
+			"how_commonly_required": "Required in every state for LLCs and corporations. Filing fees commonly range from about $40 to $500 depending on the state. DBA registration is commonly required for sole proprietors using a trade name.",
 			"source_urls": [
-				"https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits",
-				"https://fieldcamp.ai/blog/cleaning-business-license",
-				"https://www.tailorbrands.com/blog/cleaning-business-license",
-				"https://www.housecallpro.com/resources/what-licenses-permits-are-needed-to-start-a-cleaning-business"
+				"https://www.sba.gov/business-guide/launch-your-business/choose-business-structure"
+			]
+		},
+		{
+			"requirement_name": "General business license (state and/or local level) - varies by jurisdiction",
+			"why_needed": "A general business license authorizes a business to operate within a jurisdiction. For cleaning services it is most commonly issued by the city or county. A handful of states (such as Delaware, Nevada, Washington, West Virginia and Alaska) require a state-level general business license as well; most states do not. There is no separate 'cleaning license' in most of the US - the general business license plus registration is what most cleaning businesses actually need.",
+			"how_commonly_required": "Commonly required at the local (city/county) level. State-level general business license required in only a few states. Confirm both levels for your location using the state pages on this site.",
+			"source_urls": [
+				"https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits"
+			]
+		},
+		{
+			"requirement_name": "Sales tax permit - required where cleaning services are taxable",
+			"why_needed": "Cleaning is a service, and a number of states tax services. In states such as Texas, New York, New Jersey, Connecticut, Hawaii, New Mexico and South Dakota, janitorial and/or building cleaning services are subject to sales tax, so the business must register with the state tax authority, collect tax from customers and remit it. In states that do not tax cleaning services, no sales tax permit is needed for the cleaning work itself.",
+			"how_commonly_required": "Required only in states that tax cleaning services - roughly a third of states for commercial janitorial work, fewer for residential. Registration is usually free or low-cost and is done with the state Department of Revenue / taxation authority.",
+			"source_urls": [
+				"https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits"
+			]
+		},
+		{
+			"requirement_name": "Janitorial / cleaning contractor license - rare, but exists in a few places",
+			"why_needed": "Most states do NOT issue a trade license for cleaning the way they do for electricians or plumbers. A few jurisdictions are exceptions - some states and large cities require janitorial contractors to register or hold a specific license or bond before taking commercial contracts. Because commercial clients often ask 'are you licensed?', cleaners should check their state and city rules even though the answer is usually 'no specific cleaning license - just the general business license'.",
+			"how_commonly_required": "Not required in most states. Applies only in specific jurisdictions; check your state page and city clerk for commercial janitorial work.",
+			"source_urls": [
+				"https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits"
+			]
+		},
+		{
+			"requirement_name": "Janitorial surety bond and liability insurance - client requirement, not a state license",
+			"why_needed": "Commercial clients commonly refuse to hire a cleaning company that is not bonded and insured. A janitorial surety bond protects clients against employee theft, and general liability insurance covers accidental damage in a client's home or office. These are bought from private bond/insurance providers, not issued by the state, but in practice they function as a requirement for winning commercial contracts.",
+			"how_commonly_required": "Not a legal requirement in most places, but effectively required for commercial cleaning contracts and commonly expected by homeowners too. Janitorial bonds commonly cost about $100-$300 per year; general liability policies for small cleaning businesses commonly start around $400-$1,200 per year.",
+			"source_urls": [
+				"https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits"
 			]
 		}
 	],
 	"typical_local_requirements": {
-		"general_pattern": "Most cities and/or counties commonly require a general business license to operate a business within their jurisdiction, including cleaning services. If the cleaning business is operated from a residence (which is common for solo residential cleaners), a home occupation permit may also be required — this is a zoning-related approval confirming that the home-based business will not disrupt the residential character of the neighborhood. Some localities also require zoning approval before issuing a business license. If the business stores cleaning chemicals or equipment at home, local zoning rules may restrict the types or quantities of materials stored. These requirements vary by locality and must be confirmed directly with the local city clerk's office or county government.",
+		"general_pattern": "Most cities and/or counties commonly require a general business license to operate a business within their jurisdiction, including cleaning services. If the cleaning business is operated from a residence (which is common for solo residential cleaners), a home occupation permit may also be required \u2014 this is a zoning-related approval confirming that the home-based business will not disrupt the residential character of the neighborhood. Some localities also require zoning approval before issuing a business license. If the business stores cleaning chemicals or equipment at home, local zoning rules may restrict the types or quantities of materials stored. These requirements vary by locality and must be confirmed directly with the local city clerk's office or county government.",
 		"typical_issuing_agency_type": "City clerk's office, city business license office, or county government (varies by locality)",
 		"common_local_permits": [
 			{
 				"permit_name": "General business license (city/county)",
 				"why_needed": "Authorizes the business to operate within the local jurisdiction. Commonly required by cities and counties for cleaning businesses.",
 				"source_urls": [
-					"https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits",
-					"https://www.housecallpro.com/resources/what-licenses-permits-are-needed-to-start-a-cleaning-business",
-					"https://fieldcamp.ai/blog/cleaning-business-license"
+					"https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits"
+				]
+			},
+			{
+				"permit_name": "Home occupation permit",
+				"why_needed": "Most small cleaning businesses are run from home. Many cities require a home occupation permit - a zoning approval confirming the home-based business will not disrupt the residential neighborhood (no customer visits, limited signage, limited stored equipment/chemicals).",
+				"source_urls": [
+					"https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits"
+				]
+			},
+			{
+				"permit_name": "Zoning verification / certificate of occupancy",
+				"why_needed": "If the business leases an office, storage unit or small commercial space for equipment and supplies, the city typically verifies the use is allowed in that zone and may issue a certificate of occupancy before the business license is granted.",
+				"source_urls": [
+					"https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits"
 				]
 			}
 		],
 		"caveat": "Local requirements vary significantly by city and county and must be confirmed directly with the local clerk's office or local government. No specific city rules are provided here."
+	},
+	"standard_cost_range": {
+		"range_low_usd": 50,
+		"range_high_usd": 500,
+		"description": "Typical government costs to become legal: local general business license commonly $50-$400 per year; LLC/corporation state filing about $40-$500 one-time; sales tax permit usually free. Bonding and insurance (private, not government fees) add roughly $500-$1,500 per year for a small cleaning business."
+	},
+	"standard_renewal_frequency": {
+		"pattern": "Annual for most items",
+		"details": "Local business licenses and state general business licenses (where required) typically renew every year. Sales tax permits usually do not expire but require regular tax filings (monthly or quarterly). Entity registrations may need a short annual report to the state to stay active."
+	},
+	"standard_processing_time": {
+		"range": "Same day to about 4 weeks",
+		"details": "Online LLC filings and sales tax registrations are often approved instantly or within a few business days; mailed filings and some local licenses can take 2-4 weeks. Most solo cleaners can complete the full setup within 1-2 weeks."
 	}
 }

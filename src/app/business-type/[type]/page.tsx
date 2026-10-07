@@ -101,6 +101,48 @@ export default async function BusinessTypePage({
           </div>
         </article>
       </section>
+
+      <section className="grid gap-6 lg:grid-cols-2">
+        {Array.isArray(page.data.federal_requirements) && page.data.federal_requirements.length > 0 ? (
+          <article className="rounded-2xl border border-slate-200 bg-white p-8 shadow-sm">
+            <h2 className="text-xl font-semibold">Federal requirements</h2>
+            <ul className="mt-5 space-y-3 text-slate-600">
+              {page.data.federal_requirements.map((item) => (
+                <li key={item.requirement_name} className="leading-7">
+                  <span className="font-medium text-slate-900">{item.requirement_name}</span>
+                  {item.why_needed ? <span className="block text-sm">{item.why_needed}</span> : null}
+                </li>
+              ))}
+            </ul>
+          </article>
+        ) : null}
+
+        {page.data.standard_cost_range || page.data.standard_renewal_frequency || page.data.standard_processing_time ? (
+          <article className="rounded-2xl border border-slate-200 bg-white p-8 shadow-sm">
+            <h2 className="text-xl font-semibold">Typical costs &amp; timing</h2>
+            <div className="mt-5 space-y-4 text-slate-600">
+              {page.data.standard_cost_range ? (
+                <p className="leading-7">
+                  <span className="font-medium text-slate-900">Cost: ${page.data.standard_cost_range.range_low_usd}-${page.data.standard_cost_range.range_high_usd}. </span>
+                  {page.data.standard_cost_range.description}
+                </p>
+              ) : null}
+              {page.data.standard_processing_time ? (
+                <p className="leading-7">
+                  <span className="font-medium text-slate-900">Time: {page.data.standard_processing_time.range}. </span>
+                  {page.data.standard_processing_time.details}
+                </p>
+              ) : null}
+              {page.data.standard_renewal_frequency ? (
+                <p className="leading-7">
+                  <span className="font-medium text-slate-900">Renewals: {page.data.standard_renewal_frequency.pattern}. </span>
+                  {page.data.standard_renewal_frequency.details}
+                </p>
+              ) : null}
+            </div>
+          </article>
+        ) : null}
+      </section>
     </main>
   );
 }
