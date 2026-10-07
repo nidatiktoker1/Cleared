@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "Cleared | Business licensing guides",
+    default: "Cleared — Business Licensing Guides",
     template: "%s | Cleared",
   },
   description:
