@@ -24,6 +24,7 @@ export async function generateMetadata({
   return {
     title: `${page.business.definition.label} in ${page.state.state_name}`,
     description: `A practical licensing guide for ${page.business.definition.label.toLowerCase()} businesses in ${page.state.state_name}.`,
+    alternates: { canonical: `/business-type/${type}/${state}` },
   };
 }
 

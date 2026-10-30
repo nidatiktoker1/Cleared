@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "About Cleared",
   description: "How Cleared helps small business owners understand licensing requirements clearly.",
+  alternates: { canonical: "/about" },
 };
 
 export default function AboutPage() {

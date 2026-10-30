@@ -25,6 +25,7 @@ export async function generateMetadata({
   return {
     title: `${page.definition.label} licensing guide`,
     description: page.definition.description,
+    alternates: { canonical: `/business-type/${type}` },
   };
 }
 

@@ -1,6 +1,9 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { getBusinessTypes, getLicenseFinderData, getStateReferenceTable } from "@/lib/content";
 import { LicenseFinderClient } from "@/components/license-finder-client";
+
+export const metadata: Metadata = { alternates: { canonical: "/" } };
 
 export default function Home() {
   const businessTypes = getBusinessTypes();

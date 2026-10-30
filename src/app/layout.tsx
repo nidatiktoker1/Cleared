@@ -12,6 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://cleared-two.vercel.app"),
   title: {
     default: "Cleared — Business Licensing Guides",
     template: "%s | Cleared",
